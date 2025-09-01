@@ -22,7 +22,6 @@ Los contratos pueden ser **mensuales** o de **1 a 2 años**, con diversos métod
 ---
 
 ## 📊 Descripción de los Datos
-Archivos disponibles en `/datasets/final_provider/` y en [final_provider.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94210e31-fd3d-451b-a350-4a8476756413/final_provider.zip):
 
 - `contract.csv` → Información de contratos.  
 - `personal.csv` → Datos personales de clientes.  
